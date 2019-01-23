@@ -1,5 +1,5 @@
 ---
-title: CMS git edit...
+title: CMS git edit WOW...
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
